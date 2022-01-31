@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and web development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on web development 
-- 📫 How to reach me there
+- 📫 I learned Python
 
 <!---
 Oliulla/Oliulla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
